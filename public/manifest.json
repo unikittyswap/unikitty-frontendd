@@ -1,0 +1,16 @@
+{
+  "short_name": "Unikitty swap Finance",
+  "name": "Unikitty swap Finance",
+  "description": "Farm Unikitty with LP Tokens",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
